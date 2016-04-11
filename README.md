@@ -28,6 +28,8 @@ That's it! Using Git and GitHub will probably take some getting used to, but you
 
 [![Join the chat at https://gitter.im/McFeelio/GraphingCalculator](https://badges.gitter.im/McFeelio/GraphingCalculator.svg)](https://gitter.im/McFeelio/GraphingCalculator?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
+- [Daily Progress Update Form](http://goo.gl/forms/qmFIWjc86j)
+
 #####Daily Meeting Archive
 - [Day 1](https://docs.google.com/document/d/1PWI30HGAgDBuibnk38m0XrJedN2nds4-4RhQBlaYwhc/edit?usp=sharing)
 
